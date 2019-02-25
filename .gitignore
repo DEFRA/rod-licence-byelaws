@@ -6,5 +6,6 @@
 lib/govuk_template.html
 govuk_modules
 node_modules/*
+public/
 .tmuxp.*
 package-lock.json
